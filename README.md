@@ -9,4 +9,4 @@ Create a header for your website.
 
 We'll start creating content for your websites.
 
-<a href="https://repl.it/@heagle/WebTemplate"> Wbsite Template</a>
+<a href="https://repl.it/@heagle/WebTemplate"> Website Template</a>
